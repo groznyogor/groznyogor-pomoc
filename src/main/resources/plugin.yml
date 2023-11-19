@@ -1,0 +1,12 @@
+name: groznyogor-pomoc
+version: '${project.version}'
+main: me.groznyogor.groznyogor_pomoc
+api-version: '1.19'
+authors: [groznyogor]
+description: Plugin writed by groznyogor
+website: http://dc.xomc.pl
+commands:
+  pomoc:
+    description: Pomoc serwera
+    usage: /pomoc [reload]
+    permission: groznyogor.pomoc
