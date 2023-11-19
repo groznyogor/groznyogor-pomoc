@@ -1,7 +1,7 @@
 # groznyogor-pomoc
 ## Prosty plugin na pomoc autorstwa groznyogor 🥒
 
-Spigot: spigotlink-soon
+Spigot: https://www.spigotmc.org/resources/groznyogor-pomoc.113630/
 Discord: http://dc.xomc.pl
 
 ## Komendy i permisje
